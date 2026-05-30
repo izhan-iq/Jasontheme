@@ -1,0 +1,6 @@
+{
+  "name": "Artisan Master Trade",
+  "description": "High-end corporate portfolio for Jason M., Master Plumber and Medical Gas specialist, featuring custom interactive credentials, medical gas standard checks, technical expertise details, and consultation booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
